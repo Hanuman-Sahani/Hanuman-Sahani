@@ -43,9 +43,9 @@ I love solving complex problems, optimizing performance, and contributing to ope
 - Email: hanumansahani7388@gmail.com
 
 ## 📜 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?king7388=king7388&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?king7388=king7388&layout=compact&theme=radical)
 
 ## 💡 Let's Collaborate!
 I am always open to exciting projects, collaborations, and knowledge sharing. If you have an idea, let's build something amazing together! 🚀
