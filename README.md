@@ -43,15 +43,13 @@ I love solving complex problems, optimizing performance, and contributing to ope
 - Email: hanumansahani7388@gmail.com
 
 ## 📜 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=king7388&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king7388&layout=compact&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/king7388/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=king7388" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/king7388/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=king7388&layout=compact&langs_count=8&card_width=320" />
 </a>
 ## 💡 Let's Collaborate!
 I am always open to exciting projects, collaborations, and knowledge sharing. If you have an idea, let's build something amazing together! 🚀
