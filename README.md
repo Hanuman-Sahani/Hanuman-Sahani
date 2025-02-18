@@ -43,7 +43,7 @@ I love solving complex problems, optimizing performance, and contributing to ope
 - Email: hanumansahani7388@gmail.com
 
 ## 📜 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=king7388&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=king7388&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king7388&layout=compact&theme=radical)
 
