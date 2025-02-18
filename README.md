@@ -27,21 +27,20 @@ I love solving complex problems, optimizing performance, and contributing to ope
 - 🔥 Contributed to open-source projects, improving API performance & security
 - 📈 Designed a **scalable backend architecture** handling thousands of users
 - 💼 Developed a **Human Resource Management System (HRMS)** for employee management  
-  🔗 [View Project](https://github.com/yourusername/hrms-project)
+  🔗 [View Project](https://payroll.daytek.in)
 - 💰 Built a **Payroll System** for automated salary processing and tax calculations  
-  🔗 [View Project](https://github.com/yourusername/payroll-project)
+  🔗 [View Project](https://payroll.daytek.in)
 - 🛒 Created an **E-commerce platform** with a robust shopping cart and payment gateway  
-  🔗 [View Project](https://github.com/yourusername/ecommerce-project)
+  🔗 [View Project](https://play.google.com/store/apps/details?id=com.utsavfashion.app)
 - 🏢 Designed and deployed a **complete ERP solution** for business operations  
   🔗 [View Project](https://github.com/yourusername/erp-project)
 - 📍 Developed a **Business Listing Platform** to connect businesses with customers  
-  🔗 [View Project](https://github.com/yourusername/business-listing-project)
+  🔗 [View Project](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing)
 
 ## 📫 Connect With Me
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Twitter: [twitter.com/yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- Email: hanumansahani7388@gmail.com
 
 ## 📜 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
