@@ -1,1 +1,36 @@
+# Flutter (Dart files)
+*.dart linguist-language=Dart
+
+# Xcode (Swift files)
+*.swift linguist-language=Swift
+
+# Laravel (PHP files)
+*.php linguist-language=PHP
+
+# Postman (JSON collection files)
+*.json linguist-language=JSON
+
+# Firebase (Firebase configuration files)
+*.firebaserc linguist-language=JSON
+firebase.json linguist-language=JSON
+*.rules linguist-language=JSON
+
+# YAML (often used in Firebase config files, etc.)
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+
+# TypeScript (if you're using TypeScript with Laravel or Postman)
+*.ts linguist-language=TypeScript
+
+# JavaScript (commonly used in both Flutter, Firebase, and Postman)
+*.js linguist-language=JavaScript
+
+# HTML (common for both front-end frameworks and Postman)
+*.html linguist-language=HTML
+
+# CSS (if you're working with styles in Flutter web or other UI frameworks)
+*.css linguist-language=CSS
+
+# JSON (common format for Postman, Firebase, etc.)
+*.json linguist-language=JSON
 
