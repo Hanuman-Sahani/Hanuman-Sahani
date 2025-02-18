@@ -44,13 +44,17 @@ I love solving complex problems, optimizing performance, and contributing to ope
 
 ## 📜 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=king7388&show_icons=true&count_private=true&hide_title=true&hide=prs,issues&theme=radical&bg_color=00000000&card_width=500)
 
-<a href="https://github.com/king7388/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=king7388" />
-</a>
-<a href="https://github.com/king7388/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=king7388&layout=compact&langs_count=8&card_width=320" />
-</a>
+### 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king7388&layout=compact&theme=radical&langs_count=10)
+
+### 📈 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=king7388&theme=radical)
+
+
 ## 💡 Let's Collaborate!
 I am always open to exciting projects, collaborations, and knowledge sharing. If you have an idea, let's build something amazing together! 🚀
 
