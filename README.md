@@ -38,8 +38,8 @@ I love solving complex problems, optimizing performance, and contributing to ope
   🔗 [View Project](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing)
 
 ## 📫 Connect With Me
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/king7388)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/hanuman-sahani-928404246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: hanumansahani7388@gmail.com
 
 ## 📜 GitHub Stats
