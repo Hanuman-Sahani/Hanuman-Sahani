@@ -33,7 +33,7 @@ I love solving complex problems, optimizing performance, and contributing to ope
 - 🛒 Created an **E-commerce platform** with a robust shopping cart and payment gateway  
   🔗 [View Project](https://play.google.com/store/apps/details?id=com.utsavfashion.app)
 - 🏢 Designed and deployed a **complete ERP solution** for business operations  
-  🔗 [View Project](https://github.com/yourusername/erp-project)
+  🔗 [View Project](https://play.google.com/store/apps/details?id=com.akcworld.stm)
 - 📍 Developed a **Business Listing Platform** to connect businesses with customers  
   🔗 [View Project](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing)
 
