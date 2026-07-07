@@ -1,0 +1,12 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="50%" stop-color="#A277FF"/>
+      <stop offset="100%" stop-color="#4B8BF5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#g)"/>
+  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Hanuman Sahani</text>
+  <text x="450" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0e9ff" text-anchor="middle">Sr. Flutter &amp; Laravel Developer  |  AI / ML Engineer</text>
+</svg>
