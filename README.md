@@ -1,5 +1,5 @@
 <!-- ======================= HEADER: CAPSULE WAVE ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:A277FF,100:4B8BF5&height=200&section=header&text=Hanuman%20Sahani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sr.%20Flutter%20%26%20Laravel%20Developer%20%7C%20AI%20%2F%20ML%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="./header.svg" alt="Hanuman Sahani — Sr. Flutter & Laravel Developer | AI / ML Engineer" />
 
 <p align="center">
   <a href="https://github.com/Hanuman-Sahani">
@@ -15,7 +15,7 @@
 </p>
 
 <!-- animated divider -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🧑‍💻 About Me
 
@@ -36,7 +36,7 @@ const hanuman = {
 };
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -107,7 +107,7 @@ const hanuman = {
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 ![Payments](https://img.shields.io/badge/Payment%20Gateways-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🧩 Architecture & Domain Expertise
 
@@ -119,7 +119,7 @@ const hanuman = {
 
 \`HRMS & Payroll\` · \`E-commerce\` · \`Business Listing\` · \`Healthcare\` · \`Face-Biometric Attendance\` · \`Live Streaming\` · \`Payment Integration\` · \`App Store Optimization (ASO)\`
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 💼 Work Experience
 
@@ -134,7 +134,7 @@ const hanuman = {
 **Software Developer** — *Mobiloitte Technologies* · \`Jan 2022 – Dec 2022\`
 - Built Flutter/Dart/Firebase mobile apps; maintained codebases and conducted peer code reviews.
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -148,7 +148,7 @@ const hanuman = {
 | **Pratilekh — MoM Generator** | Cross-platform desktop app for automated Minutes-of-Meeting via OpenAI Whisper speech-to-text | Flutter · Python · Whisper | — |
 | **SHBBC — Patient Care** | Tracks patient activity, dietary intake & health metrics for real-time care coordination | Flutter · Laravel | — |
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -175,7 +175,7 @@ const hanuman = {
   <img src="https://github-profile-trophy.vercel.app/?username=Hanuman-Sahani&theme=radical&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🎓 Education & Certifications
 
@@ -185,7 +185,7 @@ const hanuman = {
 
 **Languages** — \`Hindi\` · \`English\`
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🤝 Connect With Me
 
@@ -204,5 +204,4 @@ const hanuman = {
   </a>
 </p>
 
-<!-- ======================= FOOTER: CAPSULE WAVE ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BF5,50:A277FF,100:8A2BE2&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="footer" />
+<h3 align="center">💡 Let's build something amazing together! 🚀</h3>
