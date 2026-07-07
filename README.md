@@ -1,33 +1,42 @@
-<h1 align="center">Hi 👋, I'm Hanuman Sahani</h1>
-<h3 align="center">Sr. Flutter & Laravel Developer • 5+ years building cross-platform apps, scalable backends & AI-powered systems</h3>
+<!-- ======================= HEADER: CAPSULE WAVE ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:A277FF,100:4B8BF5&height=200&section=header&text=Hanuman%20Sahani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sr.%20Flutter%20%26%20Laravel%20Developer%20%7C%20AI%20%2F%20ML%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <p align="center">
   <a href="https://github.com/Hanuman-Sahani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=680&lines=Flutter+%26+Dart+Developer;Laravel+%2B+Node.js+Backend+Engineer;BLoC+State+Management+Expert;Python+%7C+FastAPI+%7C+Django;AI+%2F+ML+%E2%80%94+YOLO+%2B+OpenCV+%2B+TensorFlow;Clean+Architecture+%2B+MVVM+%2B+Scalable+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=680&lines=Flutter+%26+Dart+Developer;Laravel+%2B+Node.js+Backend+Engineer;BLoC+State+Management+Expert;Python+%7C+FastAPI+%7C+Django;AI+%2F+ML+%E2%80%94+YOLO+%2B+OpenCV+%2B+TensorFlow;Clean+Architecture+%2B+Scalable+APIs" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hanuman-Sahani&label=Profile%20views&color=a277ff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Hanuman-Sahani&label=Profile%20views&color=a277ff&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/Hanuman-Sahani?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hanuman-Sahani?label=Followers&style=flat&color=a277ff" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Hanuman-Sahani?label=Followers&style=for-the-badge&color=a277ff" alt="followers" />
   </a>
 </p>
 
----
+<!-- animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 🧑‍💻 About Me
 
 Passionate **Flutter & Laravel developer** and **BLoC state-management expert**, delivering seamless full-stack solutions that pair polished front-ends with robust, scalable back-ends. I build high-performance cross-platform apps and reliable backend systems — and I integrate **AI/ML (YOLO, OpenCV, TensorFlow)** for real-world features like face-biometric attendance and computer-vision workflows.
 
-- 🔭 **Sr. Flutter & Laravel Developer** @ AKC Webtech Pvt Ltd
-- 🧠 Full-stack: Flutter/Dart · Laravel/PHP · Node.js · Python (FastAPI/Django)
-- 🤖 AI/ML: YOLO · OpenCV · TensorFlow — face recognition & computer vision
-- 🏗️ Clean Architecture, BLoC, MVC/MVVM, REST & WebSocket APIs
-- 📍 Based in New Delhi, India
-- 📫 Reach me at **hanumansahani7388@gmail.com**
+```typescript
+const hanuman = {
+  role: "Sr. Flutter & Laravel Developer",
+  company: "AKC Webtech Pvt Ltd",
+  location: "New Delhi, India 🇮🇳",
+  stack: {
+    mobile:   ["Flutter", "Dart", "BLoC", "Clean Architecture"],
+    backend:  ["Laravel", "Node.js", "FastAPI", "Django"],
+    ai_ml:    ["YOLO", "OpenCV", "TensorFlow", "Whisper"],
+    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"],
+  },
+  focus: "Scalable apps · AI-powered systems · Clean code",
+};
+```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 🛠️ Tech Stack
 
@@ -98,19 +107,19 @@ Passionate **Flutter & Laravel developer** and **BLoC state-management expert**,
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 ![Payments](https://img.shields.io/badge/Payment%20Gateways-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 🧩 Architecture & Domain Expertise
 
 **Patterns & Practices**
 
-`Clean Architecture` · `BLoC / Cubit` · `MVVM` · `MVC` · `SOLID` · `Repository Pattern` · `Offline-First` · `REST` · `WebSockets` · `Role-Based Auth (Sanctum / JWT)`
+\`Clean Architecture\` · \`BLoC / Cubit\` · \`MVVM\` · \`MVC\` · \`SOLID\` · \`Repository Pattern\` · \`Offline-First\` · \`REST\` · \`WebSockets\` · \`Role-Based Auth (Sanctum / JWT)\`
 
 **Domain Experience**
 
-`HRMS & Payroll` · `E-commerce` · `Business Listing` · `Healthcare` · `Face-Biometric Attendance` · `Live Streaming` · `Payment Integration` · `App Store Optimization (ASO)`
+\`HRMS & Payroll\` · \`E-commerce\` · \`Business Listing\` · \`Healthcare\` · \`Face-Biometric Attendance\` · \`Live Streaming\` · \`Payment Integration\` · \`App Store Optimization (ASO)\`
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 💼 Work Experience
 
@@ -125,7 +134,7 @@ Passionate **Flutter & Laravel developer** and **BLoC state-management expert**,
 **Software Developer** — *Mobiloitte Technologies* · \`Jan 2022 – Dec 2022\`
 - Built Flutter/Dart/Firebase mobile apps; maintained codebases and conducted peer code reviews.
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 🚀 Featured Projects
 
@@ -139,23 +148,7 @@ Passionate **Flutter & Laravel developer** and **BLoC state-management expert**,
 | **Pratilekh — MoM Generator** | Cross-platform desktop app for automated Minutes-of-Meeting via OpenAI Whisper speech-to-text | Flutter · Python · Whisper | — |
 | **SHBBC — Patient Care** | Tracks patient activity, dietary intake & health metrics for real-time care coordination | Flutter · Laravel | — |
 
----
-
-## 🎓 Education & Certifications
-
-**B.Tech / B.E.** — KIPM College of Engineering & Technology, Gida, Gorakhpur · \`2023\`
-
-**Certifications**
-- Android Development with Kotlin — Fundamentals
-- Core Java
-
----
-
-## 🌐 Languages
-
-\`Hindi\` · \`English\`
-
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 📊 GitHub Stats
 
@@ -168,11 +161,31 @@ Passionate **Flutter & Laravel developer** and **BLoC state-management expert**,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanuman-Sahani&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
+<!-- ===== ANIMATED CONTRIBUTION SNAKE (generated by GitHub Action) ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- ===== ANIMATED ACTIVITY GRAPH ===== -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hanuman-Sahani&theme=react-dark&bg_color=00000000&hide_border=true&line=a277ff&color=a277ff&point=ffffff" alt="activity graph" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hanuman-Sahani&theme=radical&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+## 🎓 Education & Certifications
+
+**B.Tech / B.E.** — KIPM College of Engineering & Technology, Gida, Gorakhpur · \`2023\`
+
+**Certifications** — Android Development with Kotlin (Fundamentals) · Core Java
+
+**Languages** — \`Hindi\` · \`English\`
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 ## 🤝 Connect With Me
 
@@ -191,6 +204,5 @@ Passionate **Flutter & Laravel developer** and **BLoC state-management expert**,
   </a>
 </p>
 
----
-
-<p align="center"><i>💡 Always open to exciting projects, collaborations, and knowledge sharing. Let's build something amazing together! 🚀</i></p>
+<!-- ======================= FOOTER: CAPSULE WAVE ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BF5,50:A277FF,100:8A2BE2&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="footer" />
