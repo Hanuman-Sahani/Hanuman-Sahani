@@ -168,7 +168,7 @@ Enrollment pipeline builds a FAISS index from payroll DB face photos; a live das
 | **Srank Bazaar — Business Listing** | JustDial-style listing app: search, filters, ratings, reviews, owner listing management | Flutter · BLoC | [Play ↗](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing) |
 | **SHBBC — Patient Care** | Patient care & diet tracking for hospitals — activity, dietary intake & health metrics | Flutter · Laravel | [Play ↗](https://play.google.com/store/apps/details?id=com.akcwebtech.shbbc) |
 
-### 🤖 AI / ML & Personal Projects
+### 🤖 AI / ML & Only Offline Support Projects
 
 | Project | What it does | Stack | Links |
 |--------|--------------|-------|-------|
