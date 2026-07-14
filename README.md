@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="./header.svg" alt="Hanuman Sahani — SDE-II · Flutter & Laravel Developer · AI / ML Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/header.svg" alt="Hanuman Sahani — SDE-II · Flutter & Laravel Developer · AI / ML Engineer" />
 
 <p align="center">
   <a href="https://github.com/Hanuman-Sahani">
