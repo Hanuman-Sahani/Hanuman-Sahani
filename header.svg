@@ -1,12 +1,40 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hanuman Sahani — SDE-II, Flutter & Laravel Developer, AI/ML Engineer">
   <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1033"/>
+      <stop offset="45%" stop-color="#3a1d6e"/>
+      <stop offset="100%" stop-color="#0b1e4d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#8A2BE2"/>
       <stop offset="50%" stop-color="#A277FF"/>
       <stop offset="100%" stop-color="#4B8BF5"/>
     </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#A277FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A277FF" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="900" height="200" fill="url(#g)"/>
-  <text x="450" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Hanuman Sahani</text>
-  <text x="450" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#f0e9ff" text-anchor="middle">Sr. Flutter &amp; Laravel Developer  |  AI / ML Engineer</text>
+
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="220" rx="18" fill="url(#glow)"/>
+
+  <!-- decorative dotted grid -->
+  <g fill="#A277FF" opacity="0.10">
+    <circle cx="70" cy="40" r="3"/><circle cx="110" cy="40" r="3"/><circle cx="150" cy="40" r="3"/>
+    <circle cx="70" cy="80" r="3"/><circle cx="110" cy="80" r="3"/><circle cx="150" cy="80" r="3"/>
+    <circle cx="830" cy="150" r="3"/><circle cx="790" cy="150" r="3"/><circle cx="750" cy="150" r="3"/>
+    <circle cx="830" cy="185" r="3"/><circle cx="790" cy="185" r="3"/><circle cx="750" cy="185" r="3"/>
+  </g>
+
+  <!-- top accent bar -->
+  <rect x="0" y="0" width="900" height="6" rx="3" fill="url(#accent)"/>
+
+  <text x="450" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">Hanuman Sahani</text>
+  <text x="450" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#C9B6FF" text-anchor="middle">SDE-II  ·  Flutter &amp; Laravel Developer  ·  AI / ML Engineer</text>
+
+  <!-- accent divider -->
+  <rect x="360" y="145" width="180" height="2.5" rx="1.25" fill="url(#accent)"/>
+
+  <text x="450" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500" fill="#9FB4D9" text-anchor="middle">4+ Yrs Experience   ·   6+ Live Apps   ·   BLoC &amp; Clean Architecture   ·   New Delhi, India</text>
 </svg>

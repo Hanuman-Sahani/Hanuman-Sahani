@@ -1,10 +1,18 @@
-<!-- ======================= HEADER: CAPSULE WAVE ======================= -->
-<img width="100%" src="./header.svg" alt="Hanuman Sahani — Sr. Flutter & Laravel Developer | AI / ML Engineer" />
+<!-- ======================= HEADER ======================= -->
+<img width="100%" src="./header.svg" alt="Hanuman Sahani — SDE-II · Flutter & Laravel Developer · AI / ML Engineer" />
 
 <p align="center">
   <a href="https://github.com/Hanuman-Sahani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=680&lines=Flutter+%26+Dart+Developer;Laravel+%2B+Node.js+Backend+Engineer;BLoC+State+Management+Expert;Python+%7C+FastAPI+%7C+Django;AI+%2F+ML+%E2%80%94+YOLO+%2B+OpenCV+%2B+TensorFlow;Clean+Architecture+%2B+Scalable+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=720&lines=SDE-II+%7C+Flutter+%26+Laravel+Developer;BLoC+%2B+Clean+Architecture+Expert;Laravel+%2B+Python+Backend+Engineer;AI+Face-Recognition+%E2%80%94+ArcFace+%2B+FAISS;6%2B+Live+Apps+on+Play+Store+%26+App+Store;Team+Lead+%26+Project+Coordinator" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- ======================= QUICK HIGHLIGHTS ======================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-SDE--II-8A2BE2?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-A277FF?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Live%20Apps-6%2B-4B8BF5?style=for-the-badge" alt="Live Apps" />
+  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-232F3E?style=for-the-badge" alt="Location" />
 </p>
 
 <p align="center">
@@ -19,19 +27,26 @@
 
 ## 🧑‍💻 About Me
 
-Passionate **Flutter & Laravel developer** and **BLoC state-management expert**, delivering seamless full-stack solutions that pair polished front-ends with robust, scalable back-ends. I build high-performance cross-platform apps and reliable backend systems — and I integrate **AI/ML (YOLO, OpenCV, TensorFlow)** for real-world features like face-biometric attendance and computer-vision workflows.
+**SDE-II** with **4+ years** of experience shipping production apps in **Flutter** and **Laravel** across HRMS/payroll, retail field-force, eCommerce, and healthcare/pharmacy. I pair polished, cross-platform front-ends with robust, scalable back-ends — and I bring real **AI/ML** into products, from camera-based **face-recognition attendance** (ArcFace + FAISS + temporal voting) to Whisper-powered speech-to-text.
+
+- 🚀 **6+ live products** on the Play Store / App Store — every store link below is real and verifiable.
+- 🤖 **Production AI:** built a face-biometric attendance pipeline (RTSP → detection → ArcFace embeddings → FAISS matching → temporal voting → HMAC-signed punches) feeding a Laravel payroll system.
+- 🧭 **Team Lead & Project Coordinator** — I own client requirement meetings, SOW, sprint planning, and end-to-end delivery from design to release.
+- 🧱 Strong in **BLoC**, **Clean Architecture**, **REST APIs**, **MySQL**, and offline-first mobile.
 
 ```typescript
 const hanuman = {
-  role: "Sr. Flutter & Laravel Developer",
-  company: "AKC Webtech Pvt Ltd",
+  role: "SDE-II · Flutter & Laravel Developer",
+  company: "AKC Webtech Pvt. Ltd.",
   location: "New Delhi, India 🇮🇳",
+  experience: "4+ years · 6+ live apps",
   stack: {
-    mobile:   ["Flutter", "Dart", "BLoC", "Clean Architecture"],
-    backend:  ["Laravel", "Node.js", "FastAPI", "Django"],
-    ai_ml:    ["YOLO", "OpenCV", "TensorFlow", "Whisper"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"],
+    mobile:   ["Flutter", "Dart", "BLoC", "Clean Architecture", "Offline-First"],
+    backend:  ["Laravel", "Python", "REST", "WebSocket"],
+    ai_ml:    ["ArcFace / InsightFace", "FAISS", "OpenCV", "ONNX", "Whisper"],
+    database: ["MySQL", "SQLite", "Firebase"],
   },
+  alsoLeads: ["Requirement Meetings", "Sprint Planning", "Code Reviews", "Delivery"],
   focus: "Scalable apps · AI-powered systems · Clean code",
 };
 ```
@@ -45,11 +60,10 @@ const hanuman = {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,55 +71,46 @@ const hanuman = {
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-2E7D32?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-455A64?style=for-the-badge)
+![Offline-First](https://img.shields.io/badge/Offline--First-00695C?style=for-the-badge)
+![FCM](https://img.shields.io/badge/Push%20Notifications%20(FCM)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Backend & APIs**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Auth%20%C2%B7%20Sanctum%20%2F%20JWT-EF4223?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **AI / ML & Computer Vision**
 
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![ArcFace](https://img.shields.io/badge/ArcFace%20%2F%20InsightFace-00C2A8?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud & DevOps**
+**Tools, Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD%20%C2%B7%20GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & Platforms**
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
-![Payments](https://img.shields.io/badge/Payment%20Gateways-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
@@ -113,40 +118,64 @@ const hanuman = {
 
 **Patterns & Practices**
 
-\`Clean Architecture\` · \`BLoC / Cubit\` · \`MVVM\` · \`MVC\` · \`SOLID\` · \`Repository Pattern\` · \`Offline-First\` · \`REST\` · \`WebSockets\` · \`Role-Based Auth (Sanctum / JWT)\`
+`Clean Architecture` · `BLoC / Cubit` · `MVVM` · `SOLID` · `Repository Pattern` · `Dependency Injection (get_it)` · `Offline-First` · `REST` · `WebSockets` · `Role-Based Access Control (RBAC)`
 
 **Domain Experience**
 
-\`HRMS & Payroll\` · \`E-commerce\` · \`Business Listing\` · \`Healthcare\` · \`Face-Biometric Attendance\` · \`Live Streaming\` · \`Payment Integration\` · \`App Store Optimization (ASO)\`
+`HRMS & Payroll` · `Retail Field-Force` · `E-commerce` · `Healthcare / Pharmacy` · `Business Listing` · `Face-Biometric Attendance` · `Payment Gateways` · `Live Streaming` · `MDM` · `App Store Optimization (ASO)`
+
+<img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
+
+## 🌟 Spotlight — Production AI Face-Recognition Attendance
+
+> A camera-based attendance system that turns any IP camera into a payroll data source — built end-to-end and shipped into the **Hurema HR & Payroll** platform.
+
+```text
+ IP Camera (RTSP)  →  Detection & Tracking  →  Quality Gating  →  ArcFace Embeddings
+        →  FAISS ANN Matching  →  Temporal Voting  →  HMAC-Signed Punch  →  Laravel Payroll API
+```
+
+`Python` · `ArcFace / InsightFace` · `FAISS` · `ONNX Runtime` · `OpenCV` · `WebSocket` · `Laravel`
+Enrollment pipeline builds a FAISS index from payroll DB face photos; a live dashboard streams per-camera MJPEG feeds and recognition events over REST.
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 💼 Work Experience
 
-**Sr. Flutter & Laravel Developer** — *AKC Webtech Pvt Ltd* · \`Jan 2024 – Present\`
-- Built responsive, user-friendly Flutter + Laravel apps, lifting user engagement ~20% and cutting bounce rate ~15%.
-- Optimized backend processes for ~30% better system performance and ~25% lower load times.
-- Partnered with cross-functional teams on feedback-driven iterations, improving customer satisfaction ~25%.
+**SDE-II — Software Development Engineer II** · *AKC Webtech Pvt. Ltd.* · `Jan 2024 – Present`
+- Delivered responsive Flutter + Laravel apps, lifting user engagement **~20%** and cutting bounce rate **~15%**.
+- Optimized backend processes for **~30%** better system performance and **~25%** faster load times.
+- **Team Lead & Project Coordinator** — lead client requirement meetings, translate business needs into technical scope, plan sprints, and own delivery from design to release; feedback-driven iterations raised customer satisfaction **~25%**.
 
-**Flutter Developer** — *Comptech Training & Technology Pvt Ltd* · \`Dec 2022 – Jan 2024\`
-- Crafted responsive mobile UIs, integrated REST APIs, and handled on-device data management.
+**Flutter Developer** · *Comptech Training & Technology Pvt. Ltd.* · `Dec 2022 – Jan 2024`
+- Built responsive mobile UIs, integrated REST APIs, and handled on-device data management (SQLite, local storage) across client projects.
 
-**Software Developer** — *Mobiloitte Technologies* · \`Jan 2022 – Dec 2022\`
-- Built Flutter/Dart/Firebase mobile apps; maintained codebases and conducted peer code reviews.
+**Software Developer** · *Mobiloitte Technologies* · `Jan 2022 – Dec 2022`
+- Developed Flutter/Dart/Firebase mobile apps; collaborated on requirement analysis and conducted code reviews to maintain codebase quality.
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| **STM NXT — HRMS** | Multi-platform HRMS: employee management, geo-attendance, leave/shift, automated payroll & payslips, role-based auth | Flutter · Laravel · MySQL | [Play Store](https://play.google.com/store/apps/details?id=com.akcworld.stm) |
-| **Hurema HR & Payroll** | Payroll system with **AI face-biometric** attendance; live punch logs over WebSocket; automated salary, OT & leave processing | Flutter · Laravel · WebSocket | — |
-| **Utsav Fashion — E-commerce** | Flutter e-commerce with BLoC, dynamic listings, category filters, cart & order management | Flutter · Laravel · BLoC | [Play Store](https://play.google.com/store/apps/details?id=com.utsavfashion.app) |
-| **Srank Bazaar — Business Listing** | JustDial-style listing app: search, filters, ratings, reviews, owner registration & listing management | Flutter · BLoC | [Play Store](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing) |
-| **Blue Barn — Blog & News** | Blogging/news app: categorized posts, trending stories, author profiles, bookmarks, push notifications | Flutter · BLoC | — |
-| **Pratilekh — MoM Generator** | Cross-platform desktop app for automated Minutes-of-Meeting via OpenAI Whisper speech-to-text | Flutter · Python · Whisper | — |
-| **SHBBC — Patient Care** | Tracks patient activity, dietary intake & health metrics for real-time care coordination | Flutter · Laravel | — |
+### 🏢 Production Apps — Live on Store
+
+| Project | What it does | Stack | Links |
+|--------|--------------|-------|-------|
+| **STM Retaspect** — Retail Field-Force Platform | Multi-brand platform with a 5-level RBAC hierarchy (Owner → Brand Admin → Regional Mgr → Team Leader → Field Staff); multi-layer attendance (geo-tag, geo-fence, selfie face verification, IP validation), beat plans, sales/pre-booking punching, surveys, targets & incentives | Flutter · Laravel · MySQL | [Play ↗](https://play.google.com/store/apps/details?id=com.nural.stmretail) · [App Store ↗](https://apps.apple.com/in/app/stm-retaspect/id6764816997) |
+| **Hurema — HR & Payroll** | AI face-biometric attendance; WebSocket pipeline captures live punch logs from biometric devices; automated salary processing from attendance, shifts, overtime & leave | Flutter · Laravel · Python · WebSocket | [Play ↗](https://play.google.com/store/apps/details?id=com.hurema.hurema) · [Website ↗](https://hurema.in/) |
+| **STM NXT — HRMS** | Employee management, geolocation attendance, leave & shift management, automated payroll & payslip generation, secure role-based auth across mobile & web | Flutter · Laravel · MySQL | [Play ↗](https://play.google.com/store/apps/details?id=com.akcworld.stm) |
+| **Utsav Fashion — E-commerce** | Flutter e-commerce: dynamic listings, category filters, cart & order management | Flutter · BLoC · Laravel | [Play ↗](https://play.google.com/store/apps/details?id=com.utsavfashion.app) |
+| **Srank Bazaar — Business Listing** | JustDial-style listing app: search, filters, ratings, reviews, owner listing management | Flutter · BLoC | [Play ↗](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing) |
+| **SHBBC — Patient Care** | Patient care & diet tracking for hospitals — activity, dietary intake & health metrics | Flutter · Laravel | [Play ↗](https://play.google.com/store/apps/details?id=com.akcwebtech.shbbc) |
+
+### 🤖 AI / ML & Personal Projects
+
+| Project | What it does | Stack | Links |
+|--------|--------------|-------|-------|
+| **Apex — Offline-First API Client** | Cross-platform Postman-style client (Windows/macOS/Linux/Android/iOS): tabbed workspace, nested collections (drag-and-drop), `{{env}}` substitution, rich response viewers, request history, code-gen for ~36 languages, WebSocket/Socket.IO console — 100% local via SQLite; Clean Architecture + BLoC + get_it DI; automated Windows releases via GitHub Actions | Flutter · Dart · SQLite | `Personal` |
+| **Pratilekh — AI Minutes-of-Meeting** | Offline Windows/macOS desktop app auto-generating structured, editable MoM documents from recorded/uploaded audio using a Python + OpenAI Whisper backend | Flutter · Python · Whisper | [Website ↗](https://upsalasolutions.com/) |
+| **SHB-Rx — Pharmacy & Ordering** | Flutter + BLoC pharmacy app: searchable medicine catalog, category filtering, prescription upload & verification, cart, real-time order tracking, secure payments, order history | Flutter · BLoC · Laravel | `🚧 In Progress` |
+| **Blue Barn — Blog & News** | Blogging/news app: categorized posts, trending stories, author profiles, bookmarks, push notifications | Flutter · BLoC | `—` |
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
@@ -179,11 +208,13 @@ const hanuman = {
 
 ## 🎓 Education & Certifications
 
-**B.Tech / B.E.** — KIPM College of Engineering & Technology, Gida, Gorakhpur · \`2023\`
+**B.Tech / B.E.** — KIPM College of Engineering & Technology, GIDA, Gorakhpur · `2023`
+
+**Internship** — Hospital Management System · CETPA (3 Months)
 
 **Certifications** — Android Development with Kotlin (Fundamentals) · Core Java
 
-**Languages** — \`Hindi\` · \`English\`
+**Languages** — `Hindi` · `English`
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
