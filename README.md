@@ -161,21 +161,21 @@ Enrollment pipeline builds a FAISS index from payroll DB face photos; a live das
 
 | Project | What it does | Stack | Links |
 |--------|--------------|-------|-------|
-| **Project 1** | Retail field-force platform with multi-level access control, attendance tracking, beat plans, sales pre-booking, surveys, targets & incentives | Flutter · Laravel · MySQL | — |
-| **Project 2** | HR & payroll platform with biometric attendance, live punch handling, and automated salary processing workflows | Flutter · Laravel · Python · WebSocket | — |
-| **Project 3** | HRMS system for employee management, geolocation attendance, leave & shift workflows, payroll & payslip generation | Flutter · Laravel · MySQL | — |
-| **Project 4** | E-commerce experience with dynamic listings, category filters, cart & order management | Flutter · BLoC · Laravel | — |
-| **Project 5** | Business listing app with search, filters, ratings, reviews, and owner management | Flutter · BLoC | — |
-| **Project 6** | Patient care and diet tracking solution for hospital workflows | Flutter · Laravel | — |
+| **Field Force Platform** | Retail field-force platform with multi-level access control, attendance tracking, beat plans, sales pre-booking, surveys, targets & incentives | Flutter · Laravel · MySQL | — |
+| **Payroll Intelligence Suite** | HR & payroll platform with biometric attendance, live punch handling, and automated salary processing workflows | Flutter · Laravel · Python · WebSocket | — |
+| **HRMS Core** | Employee management system with geolocation attendance, leave & shift workflows, payroll & payslip generation | Flutter · Laravel · MySQL | — |
+| **Commerce Experience** | E-commerce experience with dynamic listings, category filters, cart & order management | Flutter · BLoC · Laravel | — |
+| **Business Discovery App** | Business listing app with search, filters, ratings, reviews, and owner management | Flutter · BLoC | — |
+| **Care & Wellness Dashboard** | Patient care and diet tracking solution for hospital workflows | Flutter · Laravel | — |
 
 ### 🤖 AI / ML & Innovation Work
 
 | Project | What it does | Stack | Links |
 |--------|--------------|-------|-------|
-| **Project 7** | Cross-platform API client with nested collections, environment variables, rich response viewers, request history, and code generation support | Flutter · Dart · SQLite | — |
-| **Project 8** | Offline desktop workflow for turning recorded or uploaded audio into structured meeting notes using AI transcription | Flutter · Python · Whisper | — |
-| **Project 9** | Pharmacy & ordering app with catalog search, prescription workflows, cart, payments, and real-time tracking | Flutter · BLoC · Laravel | — |
-| **Project 10** | Content app with categorized posts, trending stories, author profiles, bookmarks, and push notifications | Flutter · BLoC | — |
+| **API Workspace Studio** | Cross-platform API client with nested collections, environment variables, rich response viewers, request history, and code generation support | Flutter · Dart · SQLite | — |
+| **Meeting Notes AI** | Offline desktop workflow for turning recorded or uploaded audio into structured meeting notes using AI transcription | Flutter · Python · Whisper | — |
+| **Pharmacy Ordering Portal** | Pharmacy & ordering app with catalog search, prescription workflows, cart, payments, and real-time tracking | Flutter · BLoC · Laravel | — |
+| **Content & News Hub** | Content app with categorized posts, trending stories, author profiles, bookmarks, and push notifications | Flutter · BLoC | — |
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
