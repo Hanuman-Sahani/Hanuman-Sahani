@@ -126,9 +126,9 @@ const hanuman = {
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
-## 🌟 Spotlight — Production AI Face-Recognition Attendance
+## 🌟 Spotlight — Production AI Attendance System
 
-> A camera-based attendance system that turns any IP camera into a payroll data source — built end-to-end and shipped into the **Hurema HR & Payroll** platform.
+> A camera-based attendance system that turns any IP camera into a payroll data source — built end-to-end and shipped into a private payroll platform.
 
 ```text
  IP Camera (RTSP)  →  Detection & Tracking  →  Quality Gating  →  ArcFace Embeddings
@@ -155,27 +155,27 @@ Enrollment pipeline builds a FAISS index from payroll DB face photos; a live das
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
-## 🚀 Featured Projects
+## 🚀 Portfolio Highlights
 
-### 🏢 Production Apps — Live on Store
-
-| Project | What it does | Stack | Links |
-|--------|--------------|-------|-------|
-| **STM Retaspect** — Retail Field-Force Platform | Multi-brand platform with a 5-level RBAC hierarchy (Owner → Brand Admin → Regional Mgr → Team Leader → Field Staff); multi-layer attendance (geo-tag, geo-fence, selfie face verification, IP validation), beat plans, sales/pre-booking punching, surveys, targets & incentives | Flutter · Laravel · MySQL | [Play ↗](https://play.google.com/store/apps/details?id=com.nural.stmretail) · [App Store ↗](https://apps.apple.com/in/app/stm-retaspect/id6764816997) |
-| **Hurema — HR & Payroll** | AI face-biometric attendance; WebSocket pipeline captures live punch logs from biometric devices; automated salary processing from attendance, shifts, overtime & leave | Flutter · Laravel · Python · WebSocket | [Play ↗](https://play.google.com/store/apps/details?id=com.hurema.hurema) · [Website ↗](https://hurema.in/) |
-| **STM NXT — HRMS** | Employee management, geolocation attendance, leave & shift management, automated payroll & payslip generation, secure role-based auth across mobile & web | Flutter · Laravel · MySQL | [Play ↗](https://play.google.com/store/apps/details?id=com.akcworld.stm) |
-| **Utsav Fashion — E-commerce** | Flutter e-commerce: dynamic listings, category filters, cart & order management | Flutter · BLoC · Laravel | [Play ↗](https://play.google.com/store/apps/details?id=com.utsavfashion.app) |
-| **Srank Bazaar — Business Listing** | JustDial-style listing app: search, filters, ratings, reviews, owner listing management | Flutter · BLoC | [Play ↗](https://play.google.com/store/apps/details?id=com.SrankBazaar.BusinessListing) |
-| **SHBBC — Patient Care** | Patient care & diet tracking for hospitals — activity, dietary intake & health metrics | Flutter · Laravel | [Play ↗](https://play.google.com/store/apps/details?id=com.akcwebtech.shbbc) |
-
-### 🤖 AI / ML & Only Offline Support Projects
+### 🏢 Delivery Highlights
 
 | Project | What it does | Stack | Links |
 |--------|--------------|-------|-------|
-| **Apex — Offline-First API Client** | Cross-platform Postman-style client (Windows/macOS/Linux/Android/iOS): tabbed workspace, nested collections (drag-and-drop), `{{env}}` substitution, rich response viewers, request history, code-gen for ~36 languages, WebSocket/Socket.IO console — 100% local via SQLite; Clean Architecture + BLoC + get_it DI; automated Windows releases via GitHub Actions | Flutter · Dart · SQLite | `Personal` |
-| **Pratilekh — AI Minutes-of-Meeting** | Offline Windows/macOS desktop app auto-generating structured, editable MoM documents from recorded/uploaded audio using a Python + OpenAI Whisper backend | Flutter · Python · Whisper | [Website ↗](https://upsalasolutions.com/) |
-| **SHB-Rx — Pharmacy & Ordering** | Flutter + BLoC pharmacy app: searchable medicine catalog, category filtering, prescription upload & verification, cart, real-time order tracking, secure payments, order history | Flutter · BLoC · Laravel | `🚧 In Progress` |
-| **Blue Barn — Blog & News** | Blogging/news app: categorized posts, trending stories, author profiles, bookmarks, push notifications | Flutter · BLoC | `—` |
+| **Project 1** | Retail field-force platform with multi-level access control, attendance tracking, beat plans, sales pre-booking, surveys, targets & incentives | Flutter · Laravel · MySQL | — |
+| **Project 2** | HR & payroll platform with biometric attendance, live punch handling, and automated salary processing workflows | Flutter · Laravel · Python · WebSocket | — |
+| **Project 3** | HRMS system for employee management, geolocation attendance, leave & shift workflows, payroll & payslip generation | Flutter · Laravel · MySQL | — |
+| **Project 4** | E-commerce experience with dynamic listings, category filters, cart & order management | Flutter · BLoC · Laravel | — |
+| **Project 5** | Business listing app with search, filters, ratings, reviews, and owner management | Flutter · BLoC | — |
+| **Project 6** | Patient care and diet tracking solution for hospital workflows | Flutter · Laravel | — |
+
+### 🤖 AI / ML & Innovation Work
+
+| Project | What it does | Stack | Links |
+|--------|--------------|-------|-------|
+| **Project 7** | Cross-platform API client with nested collections, environment variables, rich response viewers, request history, and code generation support | Flutter · Dart · SQLite | — |
+| **Project 8** | Offline desktop workflow for turning recorded or uploaded audio into structured meeting notes using AI transcription | Flutter · Python · Whisper | — |
+| **Project 9** | Pharmacy & ordering app with catalog search, prescription workflows, cart, payments, and real-time tracking | Flutter · BLoC · Laravel | — |
+| **Project 10** | Content app with categorized posts, trending stories, author profiles, bookmarks, and push notifications | Flutter · BLoC | — |
 
 <img width="100%" src="https://raw.githubusercontent.com/Hanuman-Sahani/Hanuman-Sahani/main/divider.svg" alt="" />
 
