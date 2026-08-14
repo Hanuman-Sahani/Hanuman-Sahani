@@ -227,7 +227,7 @@ Enrollment pipeline builds a FAISS index from payroll DB face photos; a live das
   <a href="mailto:hanumansahani7388@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://king7388.github.io/Hanuman-Sahani.github.io/">
+  <a href="https://Hanuman-Sahani.github.io/Hanuman-Sahani.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-A277FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Hanuman-Sahani">
